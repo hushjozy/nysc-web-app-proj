@@ -1,0 +1,298 @@
+/* BG */
+body {
+  position: absolute;
+  width: 1512px;
+  height: 795px;
+  left: 0px;
+  top: 0px;
+  backdrop-filter: blur(39px);
+}
+.bgblurred {
+  position: absolute;
+  blur: 39px;
+}
+.bg1 {
+  position: absolute;
+  width: 413px;
+  height: 497px;
+  left: 199px;
+  top: 174.3px;
+}
+.bg2 {
+  position: absolute;
+  width: 316px;
+  height: 381px;
+  left: 1171px;
+  top: 32.3px;
+}
+.bg3 {
+  position: absolute;
+  width: 239px;
+  height: 292px;
+  left: 636px;
+  top: 574px;
+}
+.logo {
+  position: absolute;
+  width: 63.32px;
+  height: 74px;
+  left: 40px;
+  top: 29px;
+}
+
+/* National Youth Service Corps */
+
+.logoname {
+  position: absolute;
+  width: 250.94px;
+  height: 24px;
+  left: 120.12px;
+  top: 45px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height */
+  color: #111026;
+}
+
+/* SERVICE AND HUMILITY */
+.motto {
+  position: absolute;
+  width: 145.37px;
+  height: 20px;
+  left: 120.12px;
+  top: 69px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 19px;
+  /* identical to box height */
+  color: #111026;
+}
+.svg1 {
+  position: absolute;
+  width: 417px;
+  height: 657px;
+  left: 914px;
+  top: 127px;
+}
+.svgball {
+  position: absolute;
+  width: 435.32px;
+  height: 464px;
+  left: 905px;
+  top: 94px;
+}
+.menu {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  position: absolute;
+  width: 893.2px;
+  height: 48px;
+  left: 470.8px;
+  top: 1px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 13px;
+  display: block;
+  color: white;
+  text-align: center;
+  margin: 50px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.bodytext {
+  position: absolute;
+  width: 499px;
+  height: 484.92px;
+  left: 178px;
+  top: 166px;
+}
+
+/* Welcome to the NYSC Portal */
+body h1 {
+  position: absolute;
+  width: 412px;
+  height: 140.29px;
+  top: 166px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 75px;
+  color: #ffffff;
+}
+body p {
+  position: absolute;
+  width: 499px;
+  height: 133px;
+  top: 343.92px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 154.69%;
+  color: #ffffff;
+}
+.button1 {
+  position: absolute;
+  width: 266px;
+  height: 57px;
+  left: 109px;
+  top: 563.92px;
+  color: white;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  background: #0e3200;
+  border-radius: 6px;
+  text-align: center;
+}
+.button2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 13px;
+  position: absolute;
+  width: 154.64px;
+  height: 48px;
+  left: 975.36px;
+  top: 42px;
+  color: white;
+  background-color: transparent;
+  border: 3px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 6px;
+  text-align: center;
+  text
+}
+.button3 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 13px;
+  position: absolute;
+  width: 154.64px;
+  height: 48px;
+  left: 800.36px;
+  top: 42px;
+  color: white;
+  background-color: transparent;
+  border: 3px solid #ffffff;
+  box-sizing: border-box;
+  border-radius: 6px;
+  text-align: center;
+  text
+}
+.body2 {
+  position: absolute;
+  width: 1056.83px;
+  height: 536px;
+  left: 228px;
+  top: 133px;
+}
+.allTodo {
+  position: absolute;
+  width: 452.63px;
+  height: 525px;
+  left: 964.15px;
+  top: 1227px;
+}
+.img-group img {
+  position: absolute;
+  width: 120.84px;
+  height: 108.09px;
+  left: 0px;
+  top: 0px;
+  margin-top: 30.88px;
+}
+.btn-group button {
+  width: 320.68px;
+  height: 107.96px;
+  left: 200.15px;
+  top: 1227px;
+  color: #618070; /* White text */
+  margin: 31px;
+  cursor: pointer;
+  background-color: #efffe2;
+  border: 1px solid #f2f2f2;
+  box-sizing: border-box;
+  border-radius: 0px 40px 40px 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #618070;
+}
+.rectangle {
+  position: fixed;
+  width: 1255px;
+  height: 122px;
+  left: 128px;
+  top: 967px;
+  border: 2px dashed #3d4a3d;
+}
+.rectangle p {
+  position: absolute;
+  left: 158px;
+  top: 38px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 13px;
+  color: white;
+}
+.buttonRemob {
+  position: absolute;
+  width: 220px;
+  height: 47px;
+  top: 53.82px;
+  left: 877.03px;
+  background: #203023;
+  color: #fff;
+  border: 1px solid #023906;
+  box-sizing: border-box;
+  border-radius: 6px;
+}
+.illus {
+  position: absolute;
+  width: 536px;
+  height: 536px;
+  left: 228px;
+  top: 1222px;
+  background: #ffffff;
+}
+
