@@ -30,7 +30,7 @@ app.set("view engine", "ejs");
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(
   require("express-session")({
-    secret: process.env.SECRET_SESSION,
+    secret: process.env.SESSION_SECRET,
     resave: false,
     saveUninitialized: false
   })
