@@ -179,8 +179,8 @@ body p {
   font-family: Roboto;
   font-style: normal;
   font-weight: 600;
-  font-size: 18px;
-  line-height: 13px;
+  font-size: 1.3rem;
+  line-height: 29px;
   position: absolute;
   width: 154.64px;
   height: 48px;
@@ -198,8 +198,9 @@ body p {
   font-family: Roboto;
   font-style: normal;
   font-weight: 600;
-  font-size: 18px;
-  line-height: 13px;
+  font-size: 1.3rem;
+  line-height: 29px;
+  text-decoration:none;
   position: absolute;
   width: 154.64px;
   height: 48px;
@@ -211,7 +212,6 @@ body p {
   box-sizing: border-box;
   border-radius: 6px;
   text-align: center;
-  text
 }
 .body2 {
   position: absolute;
